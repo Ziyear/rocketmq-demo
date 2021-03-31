@@ -1,0 +1,1 @@
+insert into T_COMMODITY (id,amount,desc,name) values (1,10000,'iphone13','iphone'), (2,100,'牛奶','牛奶');
