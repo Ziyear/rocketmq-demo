@@ -6,3 +6,11 @@
 ### 3、用户下订单，发送延时消息，超时未支付取消订单，返还使用的优惠券；
 
 ### 4、用户订单支付，模拟发送打印订单，仓库出库，物流发货操作，使用顺序消息进行发送；
+
+**H2 console**
+
+http://localhost:8888/console/login.do
+
+**swagger-ui**
+
+http://localhost:8888/swagger-ui.html
